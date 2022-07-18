@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulloh06
+- 👋 Hi, I’m Abdulloh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning flutter framework
 - 💞️ I’m looking to collaborate on Eurosoft IT company
