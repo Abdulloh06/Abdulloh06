@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulloh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning flutter framework
-- 💞️ I’m looking to collaborate on Eurosoft IT company
+- 💞️ I’m looking to 
 - 📫 How to reach me abdulloxmuhammadjonov9@gmail.com
 
 <!---
