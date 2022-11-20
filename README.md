@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdulloh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter framework
-- 💞️ I’m looking to 
+- 🌱 I’m currently working as a Flutter developer
 - 📫 How to reach me abdulloxmuhammadjonov9@gmail.com
 
 <!---
